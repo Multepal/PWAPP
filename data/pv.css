@@ -1,0 +1,63 @@
+div.page {
+    margin-left:1in;
+    background-color: blanchedalmond;
+}
+
+div.col {
+    width: 5in;
+    float: left;
+    padding: 1rem;
+}
+
+div.col.spa {
+    width: 7in;
+}
+
+p {
+    line-height: 125%;
+}
+
+.pnum {
+    display: none;
+    color: grey;
+    float: left;
+}
+
+.note {
+    float:right;
+    color:gray;
+}
+
+.rs {
+    color:red;
+    font-weight:bold;
+}
+
+.pb {
+    display: block;
+    padding: .5rem 0; 
+    background-color: lightgray;
+}
+
+.pb a {
+    border: gray;
+    /* background-color: white; */
+    /* color: grey; */
+    font-family: Arial, Helvetica, sans-serif;
+    padding:0 1rem;
+}
+
+.pc {}
+
+.lb-num {
+    margin-right: 1rem; 
+}
+
+.lb-num.hanging {
+    margin-right: 2rem;
+}
+
+.hi.large {
+    font-size: 110%;
+    font-weight: bold;
+}
