@@ -15,6 +15,11 @@ div.col.spa {
 
 p {
     line-height: 125%;
+    margin: 1rem 0;
+}
+
+.num {
+    display: none;
 }
 
 .pnum {
@@ -36,28 +41,40 @@ p {
 .pb {
     display: block;
     padding: .5rem 0; 
-    background-color: lightgray;
+    /* background-color: lightgray; */
 }
 
 .pb a {
-    border: gray;
+    /* border: gray; */
     /* background-color: white; */
     /* color: grey; */
     font-family: Arial, Helvetica, sans-serif;
-    padding:0 1rem;
+    /* padding:0 1rem; */
 }
 
-.pc {}
+/* .pc {} */
+
+/* .lb {} */
 
 .lb-num {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+    color: lightblue;
     margin-right: 1rem; 
+    text-align: right;
+    width: 20px;
 }
 
 .lb-num.hanging {
     margin-right: 2rem;
 }
 
-.hi.large {
+.large {
     font-size: 110%;
     font-weight: bold;
 }
+
+.del {
+    text-decoration: line-through; 
+}
+
