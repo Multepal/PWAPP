@@ -3,16 +3,16 @@ AGUA_PODRIDA|puch chi a|1
 AJAL_PUJ|ahal puh|3
 AJAL_PUJ|ahalpuh|1
 AJAL_QANA|ahal cana|3
-AJAW_AJTZIK_WINAQ| Ah ꜩíc vínac|1
-AJAW_AJTZIK_WINAQ| Ahau ah ꜩíc vínac|1
 AJAW_AJTZIK_WINAQ|Ah ꜩic vinac ahau|1
+AJAW_AJTZIK_WINAQ|Ah ꜩíc vínac|1
 AJAW_AJTZIK_WINAQ|Ahau ah ꜩic vinac|1
+AJAW_AJTZIK_WINAQ|Ahau ah ꜩíc vínac|1
 AJAW_AJTZIK_WINAQ|ahau ahtzic vinac|1
 AJAW_AJTZIK_WINAQ|ahau ahtzíc vínac|1
-AJAW_AWILIX| Ahau auílíx|1
 AJAW_AWILIX|Ahau auilix|1
+AJAW_AWILIX|Ahau auílíx|1
 AJAW_AWILIX|ahau auílix|1
-AJAW_JAQAWITZ| Hacauíꜩ|1
+AJAW_JAQAWITZ|Hacauíꜩ|1
 AJAW_JAQAWITZ|Hacaviꜩ|1
 AJAW_JAQAWITZ|ahau hacauítz|1
 AJAW_JAQAWITZ|ahau hacavitz|1
@@ -22,11 +22,10 @@ AJAW_KICHE|ahau quíche|1
 AJAW_KICHE|ahauquíche|3
 AJAW_KICHE|ahavab quiche|1
 AJAW_KOTUJA_UNDÉCIMO|Ahau cotuha|2
-AJAW_LOLMET| Lolmet ahau|1
-AJAW_LOLMET|Lolmet ahau|1
+AJAW_LOLMET|Lolmet ahau|2
 AJAW_LOLMET|ahau lolmet|2
-AJAW_NIM_CHOKOJ| Ním chocoh|1
 AJAW_NIM_CHOKOJ|Nim chocoh|1
+AJAW_NIM_CHOKOJ|Ním chocoh|1
 AJAW_NIM_CHOKOJ|ahau nim chocoh|1
 AJAW_NIM_CHOKOJ|ahau ním chocoh|1
 AJAW_NIM_CHOKOJ|nimchocoh ahau|1
@@ -64,8 +63,8 @@ AWILIX|aulíx|1
 AWILIX|auílix|7
 AWILIX|auílíx|12
 AWILIX|avlix|1
-BALAM_AQAB| acab|1
 BALAM_AQAB|Balam acab|1
+BALAM_AQAB|acab|1
 BALAM_AQAB|ba lam acab|1
 BALAM_AQAB|balam acab|18
 BALAM_AQAB|balamacab|5
@@ -86,7 +85,7 @@ BARRANCO_RUIDOSO|cul, cu ziuan|1
 BATZA|Baꜩa|2
 BELEJEB_KEJ|Beleheb quih|2
 BELEJEB_KEJ|beleheb queh|1
-BELEJEB_KEJ|xube+heb t/e queh|1
+BELEJEB_KEJ|xube+heb t/equeh|1
 BELEJEB_KEJ_NOVENO|Beleheb quih|1
 BELEJEB_KEJ_NOVENO|Beleheb quíh|1
 BELEJEB_TZI|beleheb q’í|1
@@ -169,7 +168,7 @@ CORAZÓN_DEL_LAGO|vqux cho|1
 CORAZÓN_DEL_MAR|corazon de el mar|1
 CORAZÓN_DEL_MAR|vguxpalo|1
 CORAZÓN_DEL_MAR|vqux palo|1
-CUATRO_CASAS_GRANDES| SSes. Señores de las grandes casas, q’ que solo son quatro|1
+CUATRO_CASAS_GRANDES|SSes.Señores de las grandes casas, q’que solo son quatro|1
 CUATRO_CASAS_GRANDES|quatro casas grandes|1
 DAN|Dan|2
 DIOS|Dios|1
@@ -179,14 +178,14 @@ DONADIU|Aluarado|1
 DONADIU|Donadiu|1
 DON_CRISTÓBAL|Don christoual chuchaxic|1
 DON_CRISTÓBAL|Don chrístoual|1
-DON_JUAN_CORTÉS|D. Juo. cortes|1
+DON_JUAN_CORTÉS|D.Juo. cortes|1
 DON_JUAN_CORTÉS|Don Juo. cortes|1
-DON_JUAN_DE_ROJAS|D. Juo. de Roxas|1
+DON_JUAN_DE_ROJAS|D.Juo. de Roxas|1
 DON_JUAN_DE_ROJAS|Don Juo. de Rojas|1
-DON_PEDRO_DE_ROBLES|Don Po. Pedro de Robles.|1
+DON_PEDRO_DE_ROBLES|Don Po.Pedro de Robles.|1
 DON_PEDRO_DE_ROBLES|zDDon. Pedro de robles|1
-DOS_MUCHACHOS| deçían|1
 DOS_MUCHACHOS|caib qaholab|1
+DOS_MUCHACHOS|deçían|1
 DOS_MUCHACHOS|dos muchachos|2
 DOS_MUCHACHOS|díxeron|3
 DOS_MUCHACHOS|ellos|7
@@ -224,11 +223,9 @@ HERO_TWINS|rían|1
 HUN_CHOWEN|hun choven|1
 HURAKAN|huracan|2
 IIXMUKANE|la víeja|1
-IKIBALAM| iquibalam |1
-IKIBALAM| íquíbalam|1
 IKIBALAM|iqui balam|6
-IKIBALAM|iquibalam|1
-IKIBALAM|íquíbalam|7
+IKIBALAM|iquibalam|2
+IKIBALAM|íquíbalam|8
 IKIBALAM|íquíbam|1
 ILOKAB|ilocab|9
 ILOKAB|ílocab|9
@@ -241,8 +238,8 @@ ISTAYUL|íztayul|1
 ISTAYUL_NIJAIB|Ztayul|1
 ISTAYUL_NIJAIB|ztayul|1
 IXKAKAW_E|xcacauíx|1
-IXKIK| Me. Madre |1
 IXKIK|Madre|2
+IXKIK|Me.Madre|1
 IXKIK|don zella|1
 IXKIK|donzella|1
 IXKIK|donçella|1
@@ -255,8 +252,8 @@ IXKIK|la donçella|5
 IXKIK|mi híja|1
 IXKIK|mí nuera|1
 IXKIK|nuera mía|1
-IXKIK|su Me Madre |1
-IXKIK|su Me. Madre |1
+IXKIK|su Me.Madre|1
+IXKIK|su MeMadre|1
 IXKIK|su hija|1
 IXKIK|su madre|2
 IXKIK|su nuera|1
@@ -305,7 +302,7 @@ JUNAJPU_WUCH|hun ahpu vuch|5
 JUNAJPU_WUCH|hunahpu vuch|1
 JUNAJPU_WUCH|vn tirador tacuazín|1
 JUNKAME|hun came|1
-JUN_BATZ|hun + baꜩ|1
+JUN_BATZ|hun +baꜩ|1
 JUN_BATZ|hun batz|5
 JUN_BATZ|hun baꜩ|30
 JUN_BATZ|hunbatz|1
@@ -314,7 +311,6 @@ JUN_CHOWEN|hun chouen|26
 JUN_CHOWEN|hun choven|8
 JUN_CHOWEN|hunchouen|5
 JUN_CHOWEN|hun’chuoen|1
-JUN_JUNAJPU| víendo|1
 JUN_JUNAJPU|díxo|1
 JUN_JUNAJPU|hun ahpu|1
 JUN_JUNAJPU|hun hun ahpu|3
@@ -322,6 +318,7 @@ JUN_JUNAJPU|hun hunahpu|9
 JUN_JUNAJPU|hunahpu|1
 JUN_JUNAJPU|hunhun ahpu|2
 JUN_JUNAJPU|hunhunahpu|4
+JUN_JUNAJPU|víendo|1
 JUN_KAME|hun came|13
 JUN_KAME|huncame|4
 KABRAQAN|cab racan|1
@@ -401,13 +398,12 @@ KOTUJA_OCTAVO|Cotuha chivi|1
 KOTZIBAJA|coꜩibaha|1
 KOTZIBAJA|coꜩíbaha|1
 KOYABAKOJ|Coyabacoh|2
-KUCHUMA_KIK|cuchu maquíC |1
+KUCHUMA_KIK|cuchu maquíC|1
 KUCHUMA_KIK|cuchu maquíc|1
 KUCHUMA_KIK|cuchumaquic|1
 KUCHUMA_KIK|cuchumaquíc|3
 KUCHUMA_KIK|díxo|1
-KULBA|culba|1
-KULBA|culba |1
+KULBA|culba|2
 LOLMET_KEJNAY|Lolmet queh nai|1
 LOLMET_KEJNAY|Lolmet quehnay|1
 LOLMET_KEJNAY|chítuy Lolmet. 7. queh nayí|1
@@ -421,9 +417,8 @@ LUGAR_DE_JAQAWITZ|hacavitz|3
 LUGAR_DE_JAQAWITZ|hacaviꜩ|1
 LUGAR_DE_JAQAWITZ|hacavítz|1
 LUGAR_DE_TZUTUJA|tzutuha|2
-MAJUKUTAJ| mahucutah|1
 MAJUKUTAJ|ma hucutah|1
-MAJUKUTAJ|mahucutah|23
+MAJUKUTAJ|mahucutah|24
 MAJUKUTAJ_HOMBRE|Mahucutah|2
 MAKAMOB|macamob|2
 MEAWN|meauan|2
@@ -432,14 +427,13 @@ MEXICO|Mexíco|1
 MT.JAQAWITZ|hacauíꜩ|2
 MT.JAQAWITZ|hacaviꜩ|2
 NAKXIT|nacxit|2
-NAKXIT|nacxít|1
-NAKXIT|nacxít |1
+NAKXIT|nacxít|2
 NIJAIB|nihaib|2
 NIJAIB|nihaibab|11
 NIJAIB|níhaíb|2
 NIJAIB|níhaíbab|11
-NIMA_KAMJA| Níma camha|2
 NIMA_KAMJA|Nima camha|2
+NIMA_KAMJA|Níma camha|2
 NIMA_KAMJA|nima camha|1
 NIMA_LOLMET_YEOLTUX|nima lolmet yeoltux|1
 NIMA_LOLMET_YEOLTUX|níma lolmet yeoltux|1
@@ -447,8 +441,8 @@ NIM_CHOKOJ_KAWEQ|Nim chocoh cavec|1
 NIM_CHOKOJ_KAWEQ|Ním choch cauec|1
 NIM_CHOKOJ_KAWEQ|nim chocoh ca vec|1
 NIM_CHOKOJ_KAWEQ|ním chocoh cuec|1
-NIM_CHOKOJ_NIJAIB| Nímchocoh níhaíb|1
 NIM_CHOKOJ_NIJAIB|Nim chocoh nihaib|1
+NIM_CHOKOJ_NIJAIB|Nímchocoh níhaíb|1
 NIM_CHOKOJ_NIJAIB|ním chocoh níhaíb|1
 OXIB_KEJ|Oxib quieh|1
 OXIB_KEJ|Oxibqueh|1
@@ -501,8 +495,8 @@ RAXA_KAQULJA|raxacaculha|1
 RAXA_KAQULJA|verde rayo|1
 RIO_DE_SANGRE|chiquiquia|1
 RIO_DE_SANGRE|vn río q’ era de sangre|1
-SANTA_CRUZ| Sta Santa Cruz|1
-SANTA_CRUZ|Sta.SantaCruz|1
+SANTA_CRUZ|Sta.Santa Cruz|1
+SANTA_CRUZ|StaSantaCruz.|1
 SAQIK|Chínamítales|1
 SAQIK|chinamit|3
 SAQIK|chinamital|1
@@ -525,7 +519,7 @@ TEPEU_QUKUMATZ|tepeu, y cucumaꜩ|1
 TEPEW_OLOMAN|tepeu oliman|1
 TEPEW_OLOMAN|tepeu olíman|1
 TEPEW_QUKUMATZ|Sor. culebra fuerte|1
-TEPEW_QUKUMATZ|Sor. fuerte culebra|1
+TEPEW_QUKUMATZ|Sor.fuerte culebra|1
 TEPEW_QUKUMATZ|tepeu gucumaꜩ|6
 TEPEW_QUKUMATZ|tepeu y gucumaꜩ|1
 TEPEW_QUKUMATZ|tepeu, gucumaꜩ|2
@@ -560,8 +554,7 @@ TZOTZIJA|ꜩoꜩíha|1
 TZUTUJA|tzutuha|1
 UCHABAJA|vchabaha|3
 UCHABAJA|vchabaho|1
-UCHUCH_KAMJA| Vchuch camha|1
-UCHUCH_KAMJA|Vchuch camha|1
+UCHUCH_KAMJA|Vchuch camha|2
 UCHUCH_KAMJA|uchuch camha|1
 UCHUCH_KAMJA|v chuch camha|1
 UCHUCH_KAMJA|vchuch camha|1
@@ -623,8 +616,8 @@ WUQUB_KAME|vvcub came|6
 WUQUB_KAME|vvcubcame|3
 XBALAMKE|hun ahpu|1
 XBALAMKE|xbalan que|2
-XBALAMKE|xbalan q’ que |2
 XBALAMKE|xbalanque|54
+XBALAMKE|xbalanq’que|2
 XBALAMKE|xbalaque|1
 XBALAMKE|xuquixbih|1
 XBALANKE|xbalanque|2
@@ -633,9 +626,8 @@ XELAJUJ|xelahu|1
 XE_BALAX|Xebalax|1
 XE_BALAX|xebalax|1
 XE_KAMAQ|xecamac|2
-XIBALBA| chi quihila|1
-XIBALBA| ífíerno infierno |1
 XIBALBA|al ínfíerno|2
+XIBALBA|chi quihila|1
 XIBALBA|el infierno|1
 XIBALBA|el infíerno|1
 XIBALBA|el ífierno|1
@@ -643,6 +635,7 @@ XIBALBA|el ínfíerno|7
 XIBALBA|xeqhaxba|1
 XIBALBA|xibal ba|1
 XIBALBA|xibalba|25
+XIBALBA|ífíernoinfierno|1
 XIBALBA|ín fíerno|1
 XIBALBA|ínfíerno|2
 XIXBAQIYALO|Me.|2
@@ -663,8 +656,7 @@ YAKI_TEPEW|ruqyaqui tepeu|1
 YAKI_TEPEW|ya quí tepeu|1
 YAKI_TEPEW|yaqui|2
 YAKI_TEPEW|yaquí|3
-YAKOLATAM| Yacolatam|1
-YAKOLATAM|Yacolatam|1
+YAKOLATAM|Yacolatam|2
 YAKOLATAM_UTZAM_POP_SAQLATOL|yacolatam, vtzam pop zaclatol|1
 YAKOLATAM_UTZAM_POP_SAQLATOL|yacolatam. 8. vtzam pop o, zaclatol.|1
 YA_XKANUL|ya xcanul|1

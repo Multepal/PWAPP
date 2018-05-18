@@ -247,7 +247,6 @@ chouen|JUN_CHOWEN;
 223|xba –lanque|XBALAMKE;
 224|hun ahpu|JUNAJPU;
 225|hun
-
 ahpu|JUNAJPU;
 226|hun baꜩ|JUN_BATZ;
 227|hun chouen|JUN_CHOWEN;
@@ -757,7 +756,7 @@ quib|KAWEQ;
 714|nihaib|NIJAIB;
 715|nimchocoh ahau|AJAW_NIM_CHOKOJ;
 716|ahau quiche|AJAW_KICHE;
-717|Sta.SantaCruz|SANTA_CRUZ;
+717|Sta.Santa Cruz|SANTA_CRUZ;
 718|madre|ALOM;
 719|Padre|KAJOLOM;
 720|hun
@@ -1083,8 +1082,7 @@ batz|JUN_BATZ;
 1016|hun baꜩ|JUN_BATZ;
 1017|hun chouen|JUN_CHOWEN;
 1018|hun ahpu|JUNAJPU;
-1019|xbalan
-q’que|XBALAMKE;
+1019|xbalanq’que|XBALAMKE;
 1020|abuela|IXMUKANE;
 1021|Madre|IXKIK;
 1022|nuestros hermanos|HERMANOS_ARTESANOS;
@@ -1134,8 +1132,7 @@ hermanos|HERMANOS_ARTESANOS;
 1063|su abuela|IXMUKANE;
 1064|su madre|XIXBAQIYALO;
 1065|su abuela|IXMUKANE;
-1066|su 
-Me.Madre|IXKIK;
+1066|su Me.Madre|IXKIK;
 1067|nosotros, tus níetos|DOS_MUCHACHOS;
 1068|nuestros hermanos|HERMANOS_ARTESANOS;
 1069|hun ahpu|JUNAJPU;
@@ -1149,8 +1146,7 @@ Me.Madre|IXKIK;
 1077|su abuela|IXMUKANE;
 1078|su abuela|IXMUKANE;
 1079|su abu –ela|IXMUKANE;
-1080|su 
-MeMadre|IXKIK;
+1080|su MeMadre|IXKIK;
 1081|ellos|DOS_MUCHACHOS;
 1082|hun ahpu|JUNAJPU;
 1083|xbalanque|XBALAMKE;
@@ -1213,8 +1209,7 @@ níetos|DOS_MUCHACHOS;
 abuela|IXMUKANE;
 1137|los mozos, ó muchachos|DOS_MUCHACHOS;
 1138|hunahpu|JUNAJPU;
-1139|xbalan
-q’que|XBALAMKE;
+1139|xbalanq’que|XBALAMKE;
 1140|vac|pájaro;
 1141|vac|pájaro;
 1142|vac|pájaro;
@@ -1698,9 +1693,7 @@ de la tierra|UKUX_ULEW;
 1600|Quema|KEEMA;
 1601|Ahau cotuha|AJAW_KOTUJA_UNDÉCIMO;
 1602|Don chrístoual|DON_CRISTÓBAL;
-1603|Don 
-Po.Pedro
-de Robles.|DON_PEDRO_DE_ROBLES;
+1603|Don Po.Pedro de Robles.|DON_PEDRO_DE_ROBLES;
 1604|Ahau ꜫalel|AJAW_QALEL;
 1605|ní –haíbab|NIJAIB;
 1606|Ahau ah ꜩíc vínac|AJAW_AJTZIK_WINAQ;
@@ -1724,9 +1717,8 @@ de Robles.|DON_PEDRO_DE_ROBLES;
 1624|Coyabacoh|KOYABAKOJ;
 1625|Vínac bam|WINAQ_BALAM;
 1626|ah –au quiche|AJAW_KICHE;
-1627|SSes.Señoresde las
-grandes casas, 
-q’quesolo son quatro|CUATRO_CASAS_GRANDES;
+1627|SSes.Señores de las
+grandes casas, q’que solo son quatro|CUATRO_CASAS_GRANDES;
 1628|Ah ꜩíc vínac|AJAW_AJTZIK_WINAQ;
 1629|Lolmet ahau|AJAW_LOLMET;
 1630|Ním chocoh|AJAW_NIM_CHOKOJ;
@@ -1738,4 +1730,4 @@ grandes|CUATRO_CASAS_GRANDES;
 uíquíb|KAWEQ;
 1635|níha –íb|NIJAIB;
 1636|ahau quí –che|AJAW_KICHE;
-1637|StaSantaCruz|SANTA_CRUZ;
+1637|StaSantaCruz.|SANTA_CRUZ;

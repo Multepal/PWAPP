@@ -88,11 +88,12 @@ p {
 
 .pb {
     float: right;
-    background-color: lightgoldenrodyellow;
+    /* background-color: lightgoldenrodyellow; */
     /* border: 1px solid gray; */
     padding: 5px;
     margin: 5px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
 }
 
 
