@@ -45,9 +45,7 @@
     </xsl:template>
 
     <xsl:template match="tei:p">
-        <p>
-            <xsl:apply-templates />
-        </p>
+        <p><xsl:apply-templates /></p>
     </xsl:template>
 
     <xsl:template match="tei:lb">
@@ -55,28 +53,23 @@
     </xsl:template>
     
     <xsl:template match="tei:pc">
-        <!-- REMOVE -->
         <xsl:text>-</xsl:text>
     </xsl:template>
     
     <xsl:template match="tei:pb">
-        <!-- REMOVE -->
+        <span class="pb">
+            <xsl:text>&#x25C4;</xsl:text>
+            <xsl:value-of select="@xml:id"/>
+            <xsl:value-of select="@corresp"/>
+        </span>
     </xsl:template>
-
     
     <xsl:template match="tei:note">
-        <span class="note">
-            <xsl:apply-templates />
-        </span>
+        <span class="note {@resp} {@place}"><xsl:apply-templates /></span>
     </xsl:template>
     
     <xsl:template match="tei:rs">
-        <span class="rs">
-            <xsl:attribute name="data-ana">
-                <xsl:value-of select="@ana" />
-            </xsl:attribute>
-            <xsl:apply-templates />
-        </span>
+        <span class="rs" data-ana="{@ana}"><xsl:apply-templates /></span>
     </xsl:template>
     
     <xsl:template match="tei:corr">
@@ -84,21 +77,21 @@
     </xsl:template>
 
     <xsl:template match="tei:hi">
-        <span class="hi {@rend}">
-            <xsl:apply-templates />
-        </span>
+        <span class="hi {@rend}"><xsl:apply-templates /></span>
     </xsl:template>
 
     <xsl:template match="tei:num">
-        <span class="num {@rend}">
-            <xsl:apply-templates />
-        </span>
+        <span class="num {@rend}"><xsl:apply-templates /></span>
     </xsl:template>
 
     <xsl:template match="tei:del">
-        <span class="del {@rend}">
-            <xsl:apply-templates />
-        </span>
+        <span class="del {@rend}"><xsl:apply-templates /></span>
     </xsl:template>
+
+    <!--
+    <xsl:template match="text()">
+        <xsl:value-of select="normalize-space()" />
+    </xsl:template>
+    -->
 
 </xsl:stylesheet>

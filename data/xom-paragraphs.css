@@ -71,10 +71,28 @@ p {
 
 .large {
     font-size: 110%;
-    font-weight: bold;
 }
 
 .del {
     text-decoration: line-through; 
 }
+
+.hi {
+    font-weight: bold;
+    display: inline;
+}
+
+.note.editor {
+    display: none;
+}
+
+.pb {
+    float: right;
+    background-color: lightgoldenrodyellow;
+    /* border: 1px solid gray; */
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 
