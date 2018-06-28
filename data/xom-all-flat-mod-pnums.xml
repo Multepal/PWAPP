@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -11,8 +13,8 @@ v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
 <publisher>The Newberry Library</publisher>
 <pubPlace>Chicago, Illinois, USA</pubPlace>
 </publicationStmt>
-<sourceDesc default="false">
-<p part="N">An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio , Side . 
+<sourceDesc>
+<p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio , Side .
 Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
 https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
 https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
@@ -28,16 +30,14 @@ the encoding description are described in section 2.3 The Encoding Description b
 <!-- projectDesc: Describes in detail the aim or purpose for which an electronic file was encoded, 
 together with any other relevant information concerning the process by which it was assembled or 
 collected. -->
-<p part="N"/>
 </projectDesc>
-<editorialDecl default="false">
+<editorialDecl>
 <!-- editorialDecl: Provides details of the editorial practices applied during the encoding of 
 a text. -->
-<p part="N"/>
 </editorialDecl>
 </encodingDesc>
 <profileDesc>
-<langUsage default="false">
+<langUsage>
 <language ident="quc">K'iche'</language>
 <language ident="spa">Spanish</language>
 </langUsage>
@@ -50,7 +50,7 @@ the origin of the text, e.g. the date and place of its composition. -->
 </teiHeader>
 <text xml:id="MS1515v2" n="1515.2">
 <body>
-<div xml:lang="quc">
+<div xml:lang="quc" type="column">
 <pb xml:id="xom-f01-s1"/>
 <note place="margin-left" type="chapter-heading" anchored="true">
 cap.
@@ -75,7 +75,7 @@ cap.
 <lb n="12"/>pu vuch</rs>, <rs ana="JUNAJPU_UTIW">hun ahpu vtiu</rs>, <rs ana="SAQI_NIM_AQ_SIS">za<pc> –</pc>
 <lb n="13"/>quinimac ꜩÿz</rs>, <rs ana="TEPEW_QUKUMATZ">tepeu, qucumaꜩ</rs>
 <lb n="14"/><rs ana="CORAZÓN_DEL_LAGO">vqux cho</rs>, <rs ana="CORAZÓN_DEL_MAR">vqux palo</rs>, <rs ana="LOS_DE_LA_SUPERFICIE_PLANA">ah ra<pc> –</pc>
-<lb n="15"/>xalaε</rs>, <rs ana="LOS_DE_LA_BÓVEDA_AZUL">ah raxaꜩel chu qha<pc> –</pc>
+<lb n="15"/>xalaꜫ</rs>, <rs ana="LOS_DE_LA_BÓVEDA_AZUL">ah raxaꜩel chu qha<pc> –</pc>
 <lb n="16"/>xic</rs>, rachbixic, rachꜩihoxic
 <lb n="17"/>rÿ iyom, mamom <rs ana="XPIYAKOK">xpiyacoc</rs>,
 <lb n="18"/><rs ana="IXMUKANE">xmucane</rs> vbi, maꜩanel chu<pc> –</pc>
@@ -122,7 +122,7 @@ cap.
 </p>
 <p>
 <lb n="7" rend="indent"/><hi rend="large">V</hi>ae cute nabe ꜩih nabe vch<pc> –</pc>
-<lb n="8"/>an. mahabi oε hun vinac, hun
+<lb n="8"/>an. mahabi oꜫ hun vinac, hun
 <lb n="9"/>chicop, ꜩiquin, car, tap, che
 <lb n="10"/>abah, hul, zivan, quim, qui<pc> –</pc>
 <lb n="11"/>chelah; xa v tu quel cah qolic.
@@ -136,7 +136,7 @@ cap.
 <lb n="19"/>remanic ha, xa lianic palo, xa
 <lb n="20"/>vtuquel remanic, xma qo vi na
 <lb n="21"/>quilalo qolic; xa cachamanic
-<lb n="22"/>caꜩininic chi queεum, chi aεab,
+<lb n="22"/>caꜩininic chi queꜫum, chi aꜫab,
 <lb n="23"/>xa vtuquel ri <rs ana="TZAQOL">ꜩacol</rs>, <rs ana="BITOL">bitol</rs>, <rs ana="TEPEW_QUKUMATZ">te<pc> –</pc>
 <lb n="24"/>peu, gucumaꜩ</rs> e <rs ana="ALOM">alom</rs>, e <rs ana="KAJOLOM">qaho<pc> –</pc>
 <lb n="25"/>lom</rs> qo pa ha zactetoh e qovi
@@ -151,7 +151,7 @@ cap.
 <p>
 <lb n="33" rend="indent"/><hi rend="large">T</hi>a xpe cut vꜩih varal xul
 <lb n="34"/>cuq ri <rs ana="TEPEW_QUKUMATZ">tepeu gucumaꜩ</rs> varal
-<lb n="35"/>chi quecumal chi aεabal xqh<pc> –</pc>
+<lb n="35"/>chi quecumal chi aꜫabal xqh<pc> –</pc>
 <lb n="36"/>au ruq ri <rs ana="TEPEW_QUKUMATZ">tepeu gucumaꜩ</rs>, xe
 <lb n="37"/>qha cut, ta xenaohinic, ta xe
 <lb n="38"/>bizonic, xerico quib, xquicuch
@@ -161,7 +161,7 @@ cap.
 <lb n="42"/>naohih v ꜩuquic v vinaqui<pc> –</pc>
 <lb n="43"/>ric che, caam, v ꜩucuquic pu<pc> –</pc>
 <lb n="44"/>ch qazlem vinaquirem chi
-<lb n="45"/>queεumal, chi aεabal, rumal
+<lb n="45"/>queꜫumal, chi aꜫabal, rumal
 <lb n="46"/>ri <rs ana="UKUX_KAJ">vqux cah huracan</rs> vbi,
 <pb xml:id="xom-f02-s1"/>
 <lb n="1"/><rs ana="KAQUILJA_JUN_RAQAN">caculha huracan</rs> nabe, vcab
@@ -215,7 +215,7 @@ cap.
 <lb n="1"/>tahic cumal.
 </p>
 <p>
-<num>2</num>
+<note><num>2</num></note>
 <lb n="2" rend="indent"/><hi rend="large">T</hi>a xquinohih chic vchicop<pc> –</pc>
 <lb n="3"/>il huyub chahal re quichelah
 <lb n="4"/>ronohel, vvinaquil huyub ri
@@ -601,7 +601,7 @@ cap.
 <lb n="29"/>v cual, v yamanic ri cuca<pc> –</pc>
 <lb n="30"/>cabeh que he cut chubano
 <lb n="31"/>ronohel vinac. maui are
-<lb n="32"/>chivinaquir vi εaεal ri xa
+<lb n="32"/>chivinaquir vi ꜫaꜫal ri xa
 <lb n="33"/>puvac ta chuxoc xeqha ri
 <lb n="34"/>qaholab huhun chi vb qui<pc> –</pc>
 <lb n="35"/>telen qui cabichal are cu<pc> –</pc>
@@ -616,7 +616,7 @@ cap.
 <lb n="44"/>ahpu</rs> <rs ana="PEKUL" type="toponym">pe cul</rs> <rs ana="YA_XKANUL" type="toponym">ya xcanul</rs> <rs ana="MAKAMOB" type="toponym">ma<pc> –</pc>
 <lb n="45"/>camob</rs> huliznab chuchaxic
 <lb n="46"/>vbi huiub xqolic ta chi za<pc> –</pc>
-<lb n="47"/>quiric xa hun aεab chi vi-                                        
+<lb n="47"/>quiric xa hun aꜫab chi vi-                                        
 <pb xml:id="xom-f06-s2"/>                
  <note resp="editor">The number 6 in the margin is in a different hand and ink (pencil?) </note>
 <lb n="1"/>naquiric rumal ri zipacna
@@ -4564,7 +4564,7 @@ cap.
 <lb n="15"/>hic mapu xcuyutah quitiobal
 <lb n="16"/>chicop ta xuracuh cu vchi ahau
 <lb n="17"/>rumal chicop xa tzibam qui va<pc> –</pc>
-<lb n="18"/>chibal chupan εal vtzib mahu<pc> –</pc>
+<lb n="18"/>chibal chupan ꜫal vtzib mahu<pc> –</pc>
 <lb n="19"/>cutah cu roxtzib ta xechacatah
 <lb n="20"/>vi cate puch quiiahic capohib
 <lb n="21"/>ri rumal ahauab ri xtah xpu<pc> –</pc>
@@ -4831,10 +4831,10 @@ cap.
 <lb n="36"/>tzih ta xepixabic ta xcanah cut
 <lb n="37"/>retal vqoheic ri balam quitze are
 <lb n="38"/>i ta nabal vech va xchincanah
-<lb n="39"/>ivvq are i εaεal vae mi xnupi<pc> –</pc>
+<lb n="39"/>ivvq are i ꜫaꜫal vae mi xnupi<pc> –</pc>
 <lb n="40"/>xabah xnubizoh xqha cut ta xu
 <lb n="41"/>canah ri retal vqoheic pizom
-<lb n="42"/>εaεal chuchaxic maui calah v
+<lb n="42"/>ꜫaꜫal chuchaxic maui calah v
 <lb n="43"/>vach xa vi qui pizlic xma quiron
 <lb n="44"/>vi maui calah tzizbal re rumal
 <lb n="45"/>mahi xilovic ta xpizic quehe
@@ -5781,7 +5781,7 @@ cap.
 </p>
 <p>
 <lb n="22" rend="indent"/><hi rend="large">A</hi>re curi chi ronobel ahavab
-<lb n="22.1"/>elenac chirih ri ahau εalel are
+<lb n="22.1"/>elenac chirih ri ahau ꜫalel are
 <lb n="22.2"/>chic xchicabÿh rahaual huhun
 <lb n="22.3"/>chinim ha.
 </p>
@@ -5908,7 +5908,7 @@ cap.
 <lb/>
 </p>
 </div>
-<div xml:lang="spa">
+<div xml:lang="spa" type="column">
 <pb corresp="xom-f01-s1"/>
 <p>        
 <lb n="1"/><hi rend="very-large">ESTE ES EL PRINCIPIO DE LAS</hi><note place="margin-right" type="pagination" anchored="true"><num rend="large">1</num></note>
@@ -6067,7 +6067,7 @@ cap.
 <pb corresp="xom-f02-s2"/>
 <lb/>
 <p>
-<lb n="1"/><hi rend="large">Y</hi> despues discurrieron los animales de el mon
+<lb n="1"/><hi rend="large">Y</hi> despues discurrieron los animales de el mon<corr><pc> –</pc></corr>
 <lb n="2"/>te guardianes suyos de los montes todos, sus crí<pc> –</pc>
 <lb n="3"/>aturas de el monte, el venado, el paxaro, el
 <lb n="4"/>leon, el tigre, la culebra, la vívora, el cantí
@@ -9393,7 +9393,7 @@ perhaps priests not deities?</note>
 <lb n="13"/>leuantado las caras al çíelo q<abbr type="superscription">o</abbr> pedían
 <lb n="15"/>híjos, e híjas, y deçían. ó tu críador, y for<pc> –</pc>
 <lb n="16"/>mador, míradnos, oídnos, no nos dexes, no
-<lb n="17"/>nos desampares tu ídolo çíelo, y tíerra, cora
+<lb n="17"/>nos desampares tu ídolo çíelo, y tíerra, cora<corr><pc> –</pc></corr>
 <lb n="18"/>çon de el çíelo, y de la tíerra, dadnos nu<pc> –</pc>
 <lb n="19"/>estra deçendençía, para síempre, q<abbr type="superscription">o</abbr>a
 <lb n="21"/>manezca, y dadnos muchos buenos ca<pc> –</pc>

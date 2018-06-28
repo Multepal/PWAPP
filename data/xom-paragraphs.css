@@ -5,21 +5,29 @@ div.page {
 
 div.col {
     width: 5in;
-    float: left;
     padding: 1rem;
+    font-family: sans-serif;
+    height: 8in;
+    float: left;
+    overflow: scroll;
+}
+
+div.col.quc {
+    padding-left: 2in;
 }
 
 div.col.spa {
-    width: 7in;
+    padding-right: 2in;
 }
 
 p {
     line-height: 125%;
     margin: 1rem 0;
+
 }
 
 .num {
-    display: none;
+    /* display: none; */
 }
 
 .pnum {
@@ -29,8 +37,18 @@ p {
 }
 
 .note {
+    float:left;
+    clear: both;
+    background: lightgray;
+    padding: .5rem;
+    margin: .5rem;
+    margin-left: -2in;
+    text-align: center;
+}
+
+div.col.spa .note {
     float:right;
-    color:gray;
+    margin-right: -2in;
 }
 
 .rs {
@@ -38,35 +56,22 @@ p {
     font-weight:bold;
 }
 
+/*
 .pb {
     display: block;
     padding: .5rem 0; 
-    /* background-color: lightgray; */
 }
+*/
 
 .pb a {
-    /* border: gray; */
-    /* background-color: white; */
-    /* color: grey; */
     font-family: Arial, Helvetica, sans-serif;
-    /* padding:0 1rem; */
 }
 
 /* .pc {} */
 
-/* .lb {} */
-
-.lb-num {
-    font-family: Arial, Helvetica, sans-serif;
+.lb {
     font-size: 80%;
-    color: lightblue;
-    margin-right: 1rem; 
-    text-align: right;
-    width: 20px;
-}
-
-.lb-num.hanging {
-    margin-right: 2rem;
+    vertical-align: super;
 }
 
 .large {
@@ -88,12 +93,12 @@ p {
 
 .pb {
     float: right;
-    /* background-color: lightgoldenrodyellow; */
-    /* border: 1px solid gray; */
     padding: 5px;
     margin: 5px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: blue;
 }
+
+
 
 
